@@ -1,0 +1,2 @@
+# Cabins
+Whatever
